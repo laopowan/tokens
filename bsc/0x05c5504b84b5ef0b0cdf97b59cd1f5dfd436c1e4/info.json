@@ -1,0 +1,11 @@
+{
+ "name": "ASK Token",
+"website":"http://www.ask-ia.com/",
+ "description": "ASK is a decentralized protocol based on Automated Market Maker (AMM)",
+ "explorer": "https://bscscan.com/token/0x05c5504b84b5ef0b0cdf97b59cd1f5dfd436c1e4",
+ "type": "BEP20",
+ "symbol": "ASK",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x05c5504b84b5ef0b0cdf97b59cd1f5dfd436c1e4"
+}
